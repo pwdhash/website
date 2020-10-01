@@ -1,5 +1,5 @@
 /*
-Copyright 2005 Collin Jackson
+Copyright 2020 Collin Jackson
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
