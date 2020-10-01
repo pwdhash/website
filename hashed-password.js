@@ -15,6 +15,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
  * Hashed Password
  * Combination of page URI and plaintext password.
  * Treated as a string, it is the hashed password.
+ * Hash password
  */
 
 function SPH_HashedPassword(password, realm) {

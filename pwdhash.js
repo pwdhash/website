@@ -7,6 +7,7 @@
  * Distributed under the BSD License
  * See http://crypto.stanford.edu/PwdHash for more info.
  * Requires the Javascript MD5 library, available here: http://pajhome.org.uk/crypt/md5
+ * remote app
  */
 
 /*
