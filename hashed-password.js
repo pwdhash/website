@@ -71,6 +71,8 @@ SPH_HashedPassword.prototype = {
     result = result.split('');
     rotate(result, nextExtra());
     return result.join('');
+    
   }
 }
+print("note: the hash password can't be reverse engineered ")
 
