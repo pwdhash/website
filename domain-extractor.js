@@ -12,7 +12,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 */
 
 /*
- * Domain name extractor. Turns host names into domain names
+ * Domain name extractor. Turnning Domain Name into Host name.
  * Adapted from Chris Zarate's public domain genpass tool:
  *  http://labs.zarate.org/passwd/
  */
