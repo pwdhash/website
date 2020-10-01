@@ -9,7 +9,7 @@
 body 
 { 
   font-family: sans-serif; 
-  margin: 25px 25px 25px 25px; 
+  margin: 25px; 
   text-align: center; 
   font-size: smaller;
 }
@@ -30,12 +30,12 @@ versionlinks
 
 table#theHashForm h3 
 { 
-  margin: 5px 0px 5px 0px; 
+  margin: 5px 0px; 
 }
 
 table#theHashForm p 
 { 
-  margin: 2px 2px 2px 2px; 
+  margin: 2px; 
 }
 
 div#theexplanation 
@@ -58,14 +58,14 @@ div.parameterList
 
 td.stepList 
 { 
-  padding: 0px 5px 0px 5px; 
+  padding: 0 5px;
   vertical-align: top; 
 } 
 
 div.step 
 { 
   display:block; 
-  padding: 0px 0px 0px 0px; 
+  padding: 0; 
 }
 
 
