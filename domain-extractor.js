@@ -38,7 +38,7 @@ SPH_DomainExtractor.prototype = {
       domains=domains.split('|');
       for(var i=0;i<domains.length;i++) {
         if(s==domains[i]) {
-          s=host[host.length-3]+'.'+s;
+          s=host[host.length-4]+'.'+s;
           break;
         }
       }
