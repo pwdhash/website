@@ -16,7 +16,7 @@ body
 
 table#theHashForm 
 { 
-  border: 3px solid green; 
+  border: 3px solid red; 
   margin-left: auto; 
   margin-right: auto; 
   text-align: center;
@@ -92,11 +92,11 @@ div.footer
 
 .notification
 {
-  font-color: green;
+  font-color: red;
 }
 
 .warning
 {
-  font-color: red;
+  font-color: green;
 }
 
